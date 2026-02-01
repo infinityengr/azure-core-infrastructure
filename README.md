@@ -26,3 +26,7 @@ Deployed a Linux virtual machine on Microsoft Azure and exposed a secure web ser
 ## Result
 A publicly accessible web server running on Azure.
 
+## Screenshots
+
+https://github.com/infinityengr/azure-core-infrastructure/tree/51700a7cd30f90e2d56168de423018bf28fab8c7/screenshots
+
